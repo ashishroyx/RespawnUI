@@ -1,12 +1,43 @@
-# React + Vite
+# Respawn 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Respawn** is a dynamic and modern web app built for gaming enthusiasts to share, post, edit, and delete their gaming-related content in a smooth and user-friendly environment.
 
-Currently, two official plugins are available:
+## 👨‍💻 Built By
+[@ashishroyx](https://github.com/ashishroyx)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React.js
+- **Animations**: Framer Motion
+- **Smooth Scrolling**: Locomotive Scroll
+- **Backend**: Appwrite
+- **Styling**: CSS / Tailwind (if used)
+- **Version Control**: Git & GitHub
+
+---
+
+## 🎯 Features
+
+- 📝 Post, edit, and delete gaming posts
+- ⚡ Smooth scroll animations and transitions
+- 🌐 Beautiful animated landing page
+- 🔐 Secure backend with Appwrite
+
+---
+
+## 📷 Preview
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/cba3b110-e350-4ac9-a7e2-740183c6670b" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/3646aa38-f956-49c1-9519-4c2299e4f771" />
+
+
+
+---
+
+## 🧪 Setup Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/ashishroyx/RespawnUI.git
